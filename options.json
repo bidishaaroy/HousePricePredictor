@@ -1,0 +1,81 @@
+{
+  "Neighborhood": [
+    "Ambleside",
+    "Brentwood",
+    "Bridgeport",
+    "British Properties",
+    "Broadmoor",
+    "Burke Mountain",
+    "Burnaby Heights",
+    "Cambie",
+    "Caulfeild",
+    "Central Lonsdale",
+    "Central Port Coquitlam",
+    "Cloverdale",
+    "Coquitlam Centre",
+    "Deer Lake",
+    "Downtown",
+    "Dundarave",
+    "East Vancouver",
+    "Edmonds",
+    "Fleetwood",
+    "Glenbrook North",
+    "Glenwood",
+    "Guildford",
+    "Horseshoe Bay",
+    "Kitsilano",
+    "Ladner",
+    "Lower Lonsdale",
+    "Lynn Valley",
+    "Maillardville",
+    "Mary Hill",
+    "Metrotown",
+    "Mount Pleasant",
+    "North Delta",
+    "Queensborough",
+    "Riverwood",
+    "Seafair",
+    "South Surrey",
+    "Steveston",
+    "Tsawwassen",
+    "Upper Lonsdale",
+    "Uptown",
+    "West End",
+    "Westwood Plateau",
+    "Whalley"
+  ],
+  "Property Type": [
+    "Condo",
+    "Duplex",
+    "House",
+    "Townhouse",
+    "Triplex"
+  ],
+  "Bedrooms": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "Bathrooms": [
+    1,
+    2,
+    3
+  ],
+  "Garage Type": [
+    "Double",
+    "None",
+    "Single",
+    "Triple"
+  ],
+  "Basement": [
+    "Finished",
+    "Not Finished"
+  ],
+  "Legal Units": [
+    0,
+    1,
+    2
+  ]
+}
